@@ -89,12 +89,12 @@ onSearchChange = event => {
 // #2 adding keys idea using monster.id monsters is mount
   render( ){
     const {monsters,searchField, title} = this.state;
-    //const filteredMonsters  = monsters.filter(monster => monster.name.toLowerCase().includes(searchField.toLowerCase()))
+    const filteredMonsters  = monsters.filter(monster => monster.name.toLowerCase().includes(searchField.toLowerCase()))
     return (
       <div className='App'>
         <h1>{title}</h1>
         <SearchBox onSearchChange={this.onSearchChange}/>
-         <CardList monsters={monsters} /> 
+         <CardList monsters={filteredMonsters} /> 
 
         
       </div>
