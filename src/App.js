@@ -92,8 +92,8 @@ onSearchChange = event => {
     const filteredMonsters  = monsters.filter(monster => monster.name.toLowerCase().includes(searchField.toLowerCase()))
     return (
       <div className='App'>
-        <h1>{title}</h1>
         <SearchBox onSearchChange={this.onSearchChange}/>
+        <h1>{title}</h1>
          <CardList monsters={filteredMonsters} /> 
 
         
