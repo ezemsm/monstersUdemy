@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36332d6f2b7dd2ef3809d778b065e3f1",
+    "revision": "84944980847ab60b439490f76553c263",
     "url": "/monstersUdemy/index.html"
   },
   {
-    "revision": "a5cdba2a16374a0310fb",
+    "revision": "59d36bf8137505b79464",
     "url": "/monstersUdemy/static/css/main.aaff85a8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monstersUdemy/static/js/2.2eaf0afe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5cdba2a16374a0310fb",
-    "url": "/monstersUdemy/static/js/main.1952c0e0.chunk.js"
+    "revision": "59d36bf8137505b79464",
+    "url": "/monstersUdemy/static/js/main.c6890b74.chunk.js"
   },
   {
     "revision": "eb027de968099136d3ff",
