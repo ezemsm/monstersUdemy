@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/monstersUdemy/static/css/main.aaff85a8.chunk.css",
+    "main.js": "/github.io/monstersUdemy/static/js/main.f62d4ac9.chunk.js",
+    "main.js.map": "/github.io/monstersUdemy/static/js/main.f62d4ac9.chunk.js.map",
+    "runtime-main.js": "/github.io/monstersUdemy/static/js/runtime-main.00615bdf.js",
+    "runtime-main.js.map": "/github.io/monstersUdemy/static/js/runtime-main.00615bdf.js.map",
+    "static/js/2.2eaf0afe.chunk.js": "/github.io/monstersUdemy/static/js/2.2eaf0afe.chunk.js",
+    "static/js/2.2eaf0afe.chunk.js.map": "/github.io/monstersUdemy/static/js/2.2eaf0afe.chunk.js.map",
+    "index.html": "/github.io/monstersUdemy/index.html",
+    "precache-manifest.e8666ad2aa035e7f97083ef0e126cfe0.js": "/github.io/monstersUdemy/precache-manifest.e8666ad2aa035e7f97083ef0e126cfe0.js",
+    "service-worker.js": "/github.io/monstersUdemy/service-worker.js",
+    "static/css/main.aaff85a8.chunk.css.map": "/github.io/monstersUdemy/static/css/main.aaff85a8.chunk.css.map",
+    "static/js/2.2eaf0afe.chunk.js.LICENSE.txt": "/github.io/monstersUdemy/static/js/2.2eaf0afe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00615bdf.js",
+    "static/js/2.2eaf0afe.chunk.js",
+    "static/css/main.aaff85a8.chunk.css",
+    "static/js/main.f62d4ac9.chunk.js"
+  ]
+}
