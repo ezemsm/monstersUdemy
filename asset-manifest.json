@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/monstersUdemy/static/css/main.aaff85a8.chunk.css",
-    "main.js": "/monstersUdemy/static/js/main.c6890b74.chunk.js",
-    "main.js.map": "/monstersUdemy/static/js/main.c6890b74.chunk.js.map",
+    "main.js": "/monstersUdemy/static/js/main.de962e42.chunk.js",
+    "main.js.map": "/monstersUdemy/static/js/main.de962e42.chunk.js.map",
     "runtime-main.js": "/monstersUdemy/static/js/runtime-main.b8f16b00.js",
     "runtime-main.js.map": "/monstersUdemy/static/js/runtime-main.b8f16b00.js.map",
     "static/js/2.2eaf0afe.chunk.js": "/monstersUdemy/static/js/2.2eaf0afe.chunk.js",
     "static/js/2.2eaf0afe.chunk.js.map": "/monstersUdemy/static/js/2.2eaf0afe.chunk.js.map",
     "index.html": "/monstersUdemy/index.html",
-    "precache-manifest.7e9daf3b163341f0da0b9ef9951cd3bf.js": "/monstersUdemy/precache-manifest.7e9daf3b163341f0da0b9ef9951cd3bf.js",
+    "precache-manifest.4bd55088cffb56a28c570bc5f51b63a1.js": "/monstersUdemy/precache-manifest.4bd55088cffb56a28c570bc5f51b63a1.js",
     "service-worker.js": "/monstersUdemy/service-worker.js",
     "static/css/main.aaff85a8.chunk.css.map": "/monstersUdemy/static/css/main.aaff85a8.chunk.css.map",
     "static/js/2.2eaf0afe.chunk.js.LICENSE.txt": "/monstersUdemy/static/js/2.2eaf0afe.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b8f16b00.js",
     "static/js/2.2eaf0afe.chunk.js",
     "static/css/main.aaff85a8.chunk.css",
-    "static/js/main.c6890b74.chunk.js"
+    "static/js/main.de962e42.chunk.js"
   ]
 }
